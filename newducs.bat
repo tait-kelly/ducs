@@ -33,8 +33,8 @@ REM =====================KNOWN ISSUES - AS OF 2022-04-07========================
 
 
 
-set VERSION=2.0
-set COMPILED=April 4th, 2022
+set VERSION=2.1
+set COMPILED=April 7th, 2022
 set TITLE=Welcome to the new DUCS script version %VERSION% compiled on %COMPILED%
 
 
