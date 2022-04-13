@@ -15,6 +15,5 @@
       <Language ID="en-us" />
     </Product>
   </Add>
-  <Updates Enabled="TRUE" 
   <Display Level="None" AcceptEULA="TRUE" />
 </Configuration>
