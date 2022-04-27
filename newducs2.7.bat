@@ -50,6 +50,7 @@ REM ==============================Pending Changes / Improvements================
 
 
 REM =====================KNOWN ISSUES=============================================================
+REM 2022-04-26 The printers are being added in Windows now but when it tries to set as default it gives an error and user needs to click ok on the error 4x for the script to continue.
 REM 2022-04-22 Parameters is not going to the correct target after parsing also need to accomidate if a password only is not provided.
 REM 2022-04-19 Ninite agent and spiceworks agent shell are not installing correctly need to fix. RESOLVED 2022-04-25
 REM 2022-04-19 Need to remove a lot of output for a cleaner interface RESOLVED 2022-04-24
